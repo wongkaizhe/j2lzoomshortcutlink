@@ -56,13 +56,16 @@ button:hover,
   border: 1px solid #FFFFFF;
 }
 
+.image {
+  width: 700px;
+}
 /* Brand Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 /* Discord */
 .button.button-discord {
   color: #FFFFFF;
-  background-color: #7289DA }
+  background-color: #333 }
 .button.button-discord:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -73,7 +76,7 @@ button:hover,
 /* Facebook */
 .button.button-facebook {
   color: #FFFFFF;
-  background-color: #1877f2 }
+  background-color: #333 }
 .button.button-facebook:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -84,7 +87,7 @@ button:hover,
 /* Figma */
 .button.button-figma {
   color: #FFFFFF;
-  background-color: #131313 }
+  background-color: #333}
 .button.button-figma:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -95,7 +98,7 @@ button:hover,
 /* Github */
 .button.button-github {
   color: #FFFFFF;
-  background-color: #24292e }
+  background-color: #333 }
 .button.button-github:hover{
     border-radius: 10px;
     border: 2px solid #FFFFFF;
@@ -109,7 +112,7 @@ button:hover,
 /* Instagram */
 .button.button-instagram {
   color: #FFFFFF;
-  background-image: linear-gradient(-135deg,#1400c8,#b900b4,#f50000) }
+  background-color: #333}
 .button.button-instagram:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -120,7 +123,7 @@ button:hover,
 /* Kit */
 .button.button-kit {
   color: #FFFFFF;
-  background-color: #10c694 }
+  background-color: #333 }
 .button.button-kit:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -131,7 +134,7 @@ button:hover,
 /* LinkedIn */
 .button.button-linkedin {
   color: #FFFFFF;
-  background-color: #0A66C2 }
+  background-color: #333 }
 .button.button-linkedin:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -142,7 +145,7 @@ button:hover,
 /* Medium */
 .button.button-medium {
   color: #000000;
-  background-color: #E8F3EC }
+  background-color: #333 }
 .button.button-medium:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -153,7 +156,7 @@ button:hover,
 /* Mixer */
 .button.button-mixer {
   color: #FFFFFF;
-  background-color: #212c3d }
+  background-color: #333 }
 .button.button-mixer:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -166,7 +169,7 @@ button:hover,
 /* Pinterest */
 .button.button-pinterest {
   color: #FFFFFF;
-  background-color: #E60023 }
+  background-color: #333 }
 .button.button-pinterest:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -177,7 +180,7 @@ button:hover,
 /* Reddit */
 .button.button-reddit {
   color: #FFFFFF;
-  background-color: #FF4500 }
+  background-color: #333 }
 .button.button-reddit:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -187,8 +190,8 @@ button:hover,
 
 /* Snapchat */
 .button.button-snapchat {
-  color: #000000;
-  background-color: #fffc00 }
+  color: #ffffff;
+  background-color: #333 }
 .button.button-snapchat:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -199,7 +202,7 @@ button:hover,
 /* SoundCloud */
 .button.button-soundcloud {
   color: #FFFFFF;
-  background-color: #ff5500 }
+  background-color: #333 }
 .button.button-soundcloud:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -210,7 +213,7 @@ button:hover,
 /* Spectrum */
 .button.button-spectrum {
   color: #FFFFFF;
-  background-color: #7b16ff }
+  background-color: #333 }
 .button.button-spectrum:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -221,7 +224,7 @@ button:hover,
 /* Spotify */
 .button.button-spotify {
   color: #FFFFFF;
-  background-color: #1DB954 }
+  background-color: #333 }
 .button.button-spotify:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -232,7 +235,7 @@ button:hover,
 /* Steam */
 .button.button-steam {
   color: #FFFFFF;
-  background-color: #171a21 }
+  background-color: #333 }
 .button.button-steam:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -243,7 +246,7 @@ button:hover,
 /* Telegram */
 .button.button-telegram {
   color: #FFFFFF;
-  background-color: #3faee8 }
+  background-color: #333 }
 .button.button-telegram:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -254,7 +257,7 @@ button:hover,
 /* Tumblr */
 .button.button-tumblr {
   color: #FFFFFF;
-  background-color: #131313 }
+  background-color: #333 }
 .button.button-tumblr:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -265,7 +268,7 @@ button:hover,
 /* Twitch */
 .button.button-twitch {
   color: #FFFFFF;
-  background-color: #9146ff }
+  background-color: #333 }
 .button.button-twitch:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -276,7 +279,7 @@ button:hover,
 /* Twitter */
 .button.button-twitter {
   color: #FFFFFF;
-  background-color: #1DA1F2 }
+  background-color: #333}
 .button.button-twitter:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -287,7 +290,7 @@ button:hover,
 /* YouTube */
 .button.button-youtube {
   color: #FFFFFF;
-  background-color: #FF0000 }
+  background-color: #333 }
 .button.button-youtube:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
@@ -301,7 +304,7 @@ button:hover,
 /* YouTube */
 .button.button-email {
   color: #FFFFFF;
-  background-color: #D1011B }
+  background-color: #333 }
 .button.button-email:hover{
   border-radius: 10px;
   border: 2px solid #FFFFFF;
